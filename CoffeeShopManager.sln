@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeShopManager", "CoffeeShopManager\CoffeeShopManager.csproj", "{00690EF8-5B22-4DC6-BD9E-823C06B4FB32}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "CSMInstaller", "CSMInstaller\CSMInstaller.aiproj", "{94202C02-C62C-45A9-9A1B-2F27F16EA155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DefaultBuild|Any CPU = DefaultBuild|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00690EF8-5B22-4DC6-BD9E-823C06B4FB32}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{00690EF8-5B22-4DC6-BD9E-823C06B4FB32}.All|Any CPU.Build.0 = Release|Any CPU
+		{00690EF8-5B22-4DC6-BD9E-823C06B4FB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00690EF8-5B22-4DC6-BD9E-823C06B4FB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00690EF8-5B22-4DC6-BD9E-823C06B4FB32}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{00690EF8-5B22-4DC6-BD9E-823C06B4FB32}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
+		{00690EF8-5B22-4DC6-BD9E-823C06B4FB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00690EF8-5B22-4DC6-BD9E-823C06B4FB32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94202C02-C62C-45A9-9A1B-2F27F16EA155}.All|Any CPU.ActiveCfg = DefaultBuild
+		{94202C02-C62C-45A9-9A1B-2F27F16EA155}.All|Any CPU.Build.0 = DefaultBuild
+		{94202C02-C62C-45A9-9A1B-2F27F16EA155}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{94202C02-C62C-45A9-9A1B-2F27F16EA155}.Debug|Any CPU.Build.0 = DefaultBuild
+		{94202C02-C62C-45A9-9A1B-2F27F16EA155}.DefaultBuild|Any CPU.ActiveCfg = DefaultBuild
+		{94202C02-C62C-45A9-9A1B-2F27F16EA155}.DefaultBuild|Any CPU.Build.0 = DefaultBuild
+		{94202C02-C62C-45A9-9A1B-2F27F16EA155}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{94202C02-C62C-45A9-9A1B-2F27F16EA155}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17BD313B-C65E-455A-9613-813C0883BD56}
+	EndGlobalSection
+EndGlobal
